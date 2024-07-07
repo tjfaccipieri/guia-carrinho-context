@@ -45,6 +45,7 @@ Iremos agora, criar uma nova função, para poder diminuir a quantidade de um it
 ![enter image description here](https://i.ibb.co/Wz3WmtG/7.png)
 Iremos também, declarar a função na nossa interface, do seguinte modo:
 ![enter image description here](https://i.ibb.co/m4TPD8v/8.png)
+<br />
 **Também precisamos colocar a função dentro do campo `value` do retorno, do mesmo modo que fizemos na função anterior.**
 <hr />
 
