@@ -73,5 +73,7 @@ E por fim, declarar a função no `value` do nosso retorno.
 
 ## Ajustando o App.tsx
 Por fim, precisamos liberar o contexto do carrinho para o nosso projeto, do mesmo jeito que foi feito com o contexto de autenticação, dentro no nosso App.tsx, conforme a imagem abaixo:
+<br />
 ![enter image description here](https://i.ibb.co/M6FBtRG/13.png)
+<br />
 >Vale falar que a ordem entre `AuthProvider` e `CarrinhoProvider` pode ser qualquer uma, o que realmente importa, é que os providers fiquem por volta de todos os outros componentes do projeto, que precisarão ter acesso aos mesmos.
