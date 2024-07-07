@@ -62,6 +62,7 @@ E iremos novamente declarar a função na nossa interface, de modo muito similar
  5. **Fechar a compra**
 Por ultimo, iremos fazer a função de "finalizar" a nossa compra, que nada mais é do que uma função que irá retornar o nosso Array de listaCarrinho para o seu estado inicial, de um Array vazio, conforme o print abaixo:<br />
 ![enter image description here](https://i.ibb.co/SnHNb7B/11.png)
+<br />
 E como sempre, iremos declarar essa função dentro da nossa interface:<br />
 ![enter image description here](https://i.ibb.co/tLYPfsZ/12.png)
 <br />
