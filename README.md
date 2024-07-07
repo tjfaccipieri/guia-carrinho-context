@@ -12,7 +12,7 @@ Embora pudéssemos reaproveitar a nossa AuthContext para aplicar também as func
 > isso evita uma bagunça gigante de código, e trabalha com o principio de responsabilidade única de um componente, que é uma boa pratica para programação no geral.
 
 ### Passo 1 - Criar o arquivo
-Dentro da pasta `contexts` que já temos no projeto, iremos criar um novo arquivo, que eu irei chamar de `CarrinhoContext.tsx`. (O nome pode ser qualquer um, não tem obrigatoriedade de ser esse mesmo nome) 
+Dentro da pasta `contexts` que já temos no projeto, iremos criar um novo arquivo, que eu irei chamar de `CarrinhoContext.tsx`. (O nome pode ser qualquer um, não tem obrigatoriedade de ser esse mesmo nome) <br />
 ![jkhjk](https://i.ibb.co/bP2s4Bp/1.png)
 
 <hr />
