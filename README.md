@@ -78,3 +78,9 @@ Por fim, precisamos liberar o contexto do carrinho para o nosso projeto, do mesm
 ![enter image description here](https://i.ibb.co/M6FBtRG/13.png)
 <br />
 >Vale falar que a ordem entre `AuthProvider` e `CarrinhoProvider` pode ser qualquer uma, o que realmente importa, é que os providers fiquem por volta de todos os outros componentes do projeto, que precisarão ter acesso aos mesmos.
+
+
+<hr />
+
+## Usando chatGPT para entender as funções:
+[conversa com o chatGPT sobre as funções acima](https://chatgpt.com/share/0e717570-8d49-4c13-9733-c9ea4a27b56a)
